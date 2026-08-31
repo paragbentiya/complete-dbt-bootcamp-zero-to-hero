@@ -159,13 +159,13 @@ _Only execute these commands if you decided to skip the Automated Snowflake Setu
 Copy these SQL statements into a Snowflake Worksheet:
 https://github.com/nordquant/dbtlearn-snowflake-importer/blob/main/capstone-resources.md
 
-## dbt installation
+-pro## dbt installation
 
 * Supported Python Versions: https://docs.getdbt.com/faqs/Core/install-python-compatibility
 * Student Repo: https://github.com/nordquant/dbt-student-repo
 * uv Installation guide: https://docs.astral.sh/uv/getting-started/installation/
 
-### uv Environment Setup
+--skip ### uv Environment Setup
 ```
 uv sync
 # Activate virtualenv on Windows (PowerShell):
